@@ -21,6 +21,7 @@ body {
 .body-wrapper {
   max-width: 1200px !important;
   margin: 0 auto;
+  position: relative;
 }
 
 .nav-menu {
@@ -68,12 +69,12 @@ button {
 }
 
 .social {
-  position: absolute;
-  bottom: 120px;
   color: #3c3c3c;
+  position: absolute;
+  top: 80vh;
 
 }
 
 .social img {
-  margin-right: 12px;
+ margin-right: 12px;
 }
