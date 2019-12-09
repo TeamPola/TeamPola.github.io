@@ -68,8 +68,8 @@ button {
 }
 
 .social {
-  margin-top: 160px;
-  left: 0;
+  position: absolute;
+  bottom: 120px;
   color: #3c3c3c;
 
 }
