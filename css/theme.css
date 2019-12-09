@@ -53,6 +53,7 @@ button {
 button:hover {
   background-color: #3c3c3c;
   color: #fbfbfb;
+  cursor: pointer;
 }
 
 #btn-last {
@@ -78,9 +79,10 @@ button:hover {
   color: #fbfbfb;
 }
 
-#btn-black:hover {
-  background-color: #fbfbfb;
+#btn-black:hover, #btn-white:hover {
+  background-color: #fff500;
   color: #3c3c3c;
+  cursor: pointer;
 }
 
 .social {
