@@ -42,17 +42,21 @@ button {
   font-style: 'Nunito Sans', sans-serif;
   font-weight: 400;
   border: 1px solid #3c3c3c;
-  padding: 12px;
+  padding: 13.75px 33.32px;
   font-size: 14px;
   letter-spacing: 4px;
   background-color: #fbfbfb;
   opacity: 0.95;
-  margin-right: 4px;
+  margin-right: 24px;
 }
 
 button:hover {
-  background-color: #ff333390;
-  border:none;
+  background-color: #3c3c3c;
+  color: #fbfbfb;
+}
+
+#btn-last {
+  margin-right: 0px;
 }
 
 .hero {
@@ -75,8 +79,8 @@ button:hover {
 }
 
 #btn-black:hover {
-  background-color: #ff333390;
-  border:none;
+  background-color: #fbfbfb;
+  color: #3c3c3c;
 }
 
 .social {
